@@ -1,0 +1,28 @@
+{
+  "name": "burgertime",
+  "version": "1.0.0",
+  "description": "burger appp",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMerritt94/burgertime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMerritt94/burgertime/issues"
+  },
+  "homepage": "https://github.com/JMerritt94/burgertime#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "espress": "0.0.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
